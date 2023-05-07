@@ -1,0 +1,4 @@
+name: MainServer
+version: '${project.version}'
+main: me.foxikle.mainproxy.MainServer
+description: A plugin for Foxikle's server
